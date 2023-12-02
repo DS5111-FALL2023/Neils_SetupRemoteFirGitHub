@@ -48,4 +48,4 @@ user.email=efrainolivaresuva@gmail.com
     - **OR** anything you find useful... load data you would use in a project, take the next step and trigger a makefile in a cloned repo to setup the python virtual environment, etc etc.
     - 
 # ANSWER first part 
-![Screenshot of the make remote from my local machine and then the ls, and git/ssh commands.](https://myoctocat.com/assets/images/base-octocat.svg)
+![Screenshot of the make remote from my local machine and then the ls, and git/ssh commands.](SetupRemoteLabScreenshot2023-12-01-nhm5as.png)
